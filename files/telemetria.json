@@ -1,0 +1,11 @@
+{
+    "estacion_id": "SOLAR-CENTRAL-01",
+    "paneles_watts": 800,
+    "bateria_quimica": "LiFePO4",
+    "lecturas_voltaje": [
+        13.2,
+        13.4,
+        13.3
+    ],
+    "bms_seguro": true
+}
